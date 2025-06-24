@@ -3,9 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>British Council</title>
 </head>
 <body>
-
+    <h1>welcome to the british Council</h1>
+    <h2>How is my school ?</h2>
+    <p>Hello, my name is <b>Mellina</b>.I'm a student in the british council. It's an <em><mark>international  british school</em></mark>. In my class there are <q>18 students</q>. I love the teachers and my freinds. Everyone's so kind. My school is located in Algiers, the capital of Algeria. I think it's an amazing school, because i learnt so much and <sub>everyone is so supportive.</</sub></p>
+    <h3>Thanks for reading :)</h3>
+    <!---today i learnt to add headings and comments-->
 </body>
 </html>
