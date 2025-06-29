@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"
+    <meta name="viewport" content="width=device-width initial-scale=1.0"
+    title="Am I Healthy ?"
+</head>
+<body>
+    <h1>What's the ideal weight according to yor height and gender as a teenager ???</h1>
+    <p><em>Most teenagers these day suffer from obesity, so if you want to avoid that click on the link below to know what's the ideal weight for you.</em></p>
+    <p><i><mark>let's visit this website for more infos</i></mark><a href="https://www.rush.edu/how-much-should-i-weigh"><sub>click here</sub></a></p>
+    <ol>
+        <li><b>The ideal weight</b></li>
+        <li><b>ways to stay healthy</b></li>
+    </ol>
+    <dl>
+        <h3><i>what's the appropriate height and weight for my age ?</i></h3>
+        <dt>A person's body is different from a person to another, according to the gender, the weight, and the height.<br>But some people are fit and have better bodies then others because they:<ul>
+            <li>Practice sports.</li>
+            <li>Eat healthy food.</li>
+            <li>Have enough food.</li>
+            <li>And they drink a lot of water</li>
+        </ul></dt>
+    </dl>
+    <table border="3,5" bgcolor=" white"
+        <tr>
+             <th>Height</th>
+             <th>normal</th>
+             <th>overweight</th>
+             <th>obese</th>
+        </tr>
+        <tr bgcolor="white">
+            <td>5'</td>
+            <td>97 to 123 lbs</td>
+            <td>128 to 152 lbs</td>
+            <td>153 to 199 lbs</td>
+        </tr>
+        <tr>
+            <td>5'1"</td>
+            <td>100 to 131 lbs</td>
+            <td>132 to 157 lbs</td>
+            <td>158 to 206 lbs</td>
+        </tr>
+        <tr>
+            <td>5'2"</td>
+            <td>104 to 135 lbs</td>
+            <td>136 to 163 lbs</td>
+            <td>164 to 213 lbs</td>
+        </tr>
+        <tr bgcolor=" skyblue">
+            <td>5'3"</td>
+            <td>107 to 140 lbs</td>
+            <td>141 to 168 lbs</td>
+            <td>169 to 220 lbs</td>
+        </tr>
+        <tr bgcolor="skyblue">
+            <td>5'4"</td>
+            <td>110 to 144 lbs</td>
+            <td>145 to 173 lbs</td>
+            <td>174 to 227 lbs</td>
+        </tr>
+        <tr bgcolor="skyblue">
+            <td>5'5"</td>
+            <td>114 to 149 lbs</td>
+            <td>150 to 179 lbs</td>
+            <td>180 to 234 lbs</td>
+        </tr>
+        <tr bgcolor="skyblue">
+            <td>5'6"</td>
+            <td>118 to 154 lbs</td>
+            <td>155 to 185 lbs</td>
+            <td>186 to 241 lbs</td>
+        </tr>
+        <tr bgcolor="red">
+            <td>5'7"</td>
+            <td>121 to 158 lbs</td>
+            <td>159 to 190 lbs</td>
+            <td>191 to 249 lbs</td>
+        </tr>
+        <tr bgcolor="red">
+            <td>5'8"</td>
+            <td>125 to 163 lbs</td>
+            <td>164 to 195 lbs</td>
+            <td>196 to 256 lbs</td>
+        </tr>
+        <tr bgcolor="red">
+            <td>5'9"</td>
+            <td>128 to 168 lbs</td>
+            <td>169 to 202 lbs </td>
+            <td>203 to 263 lbs</td>
+        </tr>
+        <tr bgcolor="red">
+            <td>5'10"</td>
+            <td>132 to 173 lbs</td>
+            <td>174 to 208 lbs</td>
+            <td>209 to 271 lbs</td>
+        </tr>
+    </table>
+</body>
