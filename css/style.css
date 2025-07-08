@@ -1,0 +1,19 @@
+h3{
+    color:hotpink;
+}
+p{
+    text-align: right;
+    color: blueviolet;
+}
+.css{
+    color:aquamarine;
+}
+#book{
+    color:teal
+}
+h1,h3{
+    text-decoration: underline;
+}
+*{
+    text-decoration:overline;
+}
