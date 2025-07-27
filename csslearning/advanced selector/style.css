@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cornflowerblue;
+    color: rgb(187, 199, 21);
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+    text-shadow: 3px 4px 6px lightcoral;
+    text-decoration: underline;
+}
+a{
+    color: deeppink;
+    text-decoration:solid;
+}
+a:hover{
+    color:maroon;
+}
+ul>li{
+    font-weight: bold;
+    color:firebrick;
+}
+p+p{
+    background-color: rgb(73, 0, 209);
+    padding: 10px;
+    border-radius: 5px;
+}
+ul li:nth-child(3){
+    text-decoration:underline;
+}
+p:not(:first-of-type){
+    text-decoration: solid;
+    color: aquamarine;
+}
+ul li::before{
+    content:"🚀"
+}
+#space::after{
+    content:"🔭"
+}
+#one::first-letter{
+    font-size: 200%;
+    color:black
+}
