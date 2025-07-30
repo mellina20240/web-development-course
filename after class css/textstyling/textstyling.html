@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: rgb(200, 177, 201);
+           border: solid 5px;
+        }
+        a{
+            color: deeppink;
+            text-decoration: solid;
+        }
+        a:hover{
+            color: rgb(159, 3, 164);
+        }
+        #h1{
+            text-align: center;
+            text-decoration: underline;
+            text-shadow: 3px 4px 5px lightpink;
+        }
+        #join{
+            text-transform: capitalize;
+            color: rgb(146, 76, 146);
+            text-decoration: underline;
+            background-color: rgb(180, 145, 187);
+        }
+        #ol{
+            width: 400px;
+            height: 100px;
+            background-color: rgb(211, 114, 140);
+            border: 3px solid black;
+            
+        }
+        #sal{
+            text-decoration: underline;
+            color: rgb(164, 25, 99);
+            background-color: rgb(186, 133, 161);
+        }
+        #hard{
+            text-decoration: underline;
+            color: darkorchid;
+            background-color: rgb(219, 179, 237);
+        }
+        #job{
+            width: 400px;
+            height: 100px;
+            background-color: rgb(205, 122, 205);
+            border: 3px solid black;
+            padding: 3px 4px 5px 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <h1 id="h1">Welcome To The Base Space Network:</h1>
+             <ul>
+                <li id="home"> <a href="https://www.nasa.gov">Home</a><br></li>
+                <li id="us"><a href="https://www.nasa.gov/about/">About Us</a><br></li>
+                 <li id="contact"> <a href="https://www.nasa.gov/contact/">Contact Us</a></li>
+             </ul>
+            </nav>
+            <main>
+                <section>
+                    <article>
+                            <h2 id="join">How to join Nasa ?</h2>
+                            <ol id="ol">
+                                <li>Be a U.S. citizen or permanent resident.</li>
+                            <li>Be within the ages of 30-55.</li>
+                        <li> Possess a master's degree* in a STEM field, including engineering, biological science, physical science, computer
+                            science or mathematics, from an accredited institution.</li>
+                                </ol>
+                                <h2 id="sal">What's the average salary in Nasa?</h2>
+                                <table border="3" bgcolor="white">
+                                    <tr bgcolor="lightpink" >
+                                        <th>Salary Grade</th>
+                                        <th>Step 1</th>
+                                        <th>Step 2</th>
+                                        <th>Step 3</th>
+                                    </tr>
+                                    <tr bgcolor="hotpink">
+                                        <td>1</td>
+                                        <td>9000</td>
+                                        <td>9090</td>
+                                        <td>9181</td>
+                                    </tr>
+                                    <tr bgcolor="palevioletred">
+                                        <td>2</td>
+                                        <td>9675</td>
+                                        <td>9772</td>
+                                        <td>9889</td>
+                                    </tr>
+                                    <tr bgcolor="violet">
+                                        <td>3</td>
+                                        <td>10401</td>
+                                        <td>10505</td>
+                                        <td>10610</td>
+                                    </tr>
+                                    <tr bgcolor="plum">
+                                        <td>4</td>
+                                        <td>11181</td>
+                                        <td>11292</td>
+                                        <td>11405</td>
+                                    </tr>
+                                    <tr bgcolor="pink">
+                                        <td>5</td>
+                                        <td>12019</td>
+                                        <td>12139</td>
+                                        <td>12261</td>
+                                    </tr>
+
+                                </table>
+                    </article>
+                    <aside>
+                        <h2 id="hard">Is it hard to get a job in Nasa ?</h2>
+<p id="job">Getting a job at NASA is tough because it's super competitive. They usually look for people with advanced degrees and
+experience in fields like engineering or physics. Tailoring your application to match the job requirements and
+networking within the space community can improve your.</p>
+                    </aside>
+                </section>
+                <article>
+                    <figure>
+                       <img src="nasa.jpg" width="200px" height="100px">
+                        <video id="video" src="space.mp4" width="300px height=250px" controls poster="space"></video>
+                    </figure>
+                </article>
+                <h2>Wanna join ?</h2>
+                <fieldset>
+                    <legend>
+                        <form>
+                        <h3>if ur interested then complete the personnal details below :</h3>
+                            <label> First Name</label><br>
+                            <input type="text" id="name"><br>
+                            <label>Last Name</label><br>
+                            <input type="text" id="Last Name"><br>
+                            <label>Email</label><br>
+                            <input type="text" id="email"><br>
+                            <label>Age</label><br>
+                            <input type="number"><br>
+                            <label>Phone Number</label><br>
+                            <input type="number" id="phone number"><br>
+                            <label>Adress</label><br>
+                            <input type="text" id="adress"><br>
+                            <label>Gender</label><br>
+                            <input type="radio" id="male" name="gender">Male<br>
+                            <input type="radio" id="female" name="gender">Female<br>
+                            <input type="submit">
+                        </form>
+                    </legend>
+                </fieldset>
+            </main>
+</header>
+</body>
+</html>
